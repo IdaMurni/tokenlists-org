@@ -1,8 +1,8 @@
 ---
 name: Add Token List
-about: Add a list to tokenlist.org
+about: Add a list to tokenlists.idamurni.de
 title: 'Request: add {List name}'
-labels: list-request
+labels: ''
 assignees: ''
 
 ---
@@ -12,7 +12,7 @@ Before submission delete this line:
 
 **YOU MUST FOLLOW THE JSON SPECIFICATION**
 
-https://github.com/Uniswap/token-lists
+https://github.com/idamurni/tokenList
 
 Checklist
 - [ ] **I understand that this is not the place to request token listing.**
@@ -26,4 +26,3 @@ List url must be HTTPS, IPFS or ENS.
 List URL: 
 List Name: 
 Link to the official homepage of the list manager:
-
